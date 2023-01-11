@@ -3,6 +3,6 @@ for make software and git practice (:D)
 
 ## My site (:D)
 
-https://nknight-offcial.vercel.app/
+https://nknight-official.vercel.app/
 
 # Woo (:D)
